@@ -1,0 +1,420 @@
+{
+  "iris": {
+    "sgd": [
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 16,
+          "lr": 0.1,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.1600929150978724,
+        "std_val_loss": 0.01564351545227287,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 16,
+          "lr": 0.1,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.043870734671751656,
+        "std_val_loss": 0.0024562098556356483,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 16,
+          "lr": 0.01,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.5790289839108785,
+        "std_val_loss": 0.04041194540354024,
+        "mean_acc": 0.8260869565217391,
+        "std_acc": 0.0,
+        "mean_f1": 0.8203358638141247,
+        "std_f1": 0.0041535472935973535,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 16,
+          "lr": 0.01,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.16135275860627493,
+        "std_val_loss": 0.015938989371508193,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 16,
+          "lr": 0.001,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 1.0157005190849304,
+        "std_val_loss": 0.09267430192119933,
+        "mean_acc": 0.5217391304347826,
+        "std_acc": 0.12799653429460647,
+        "mean_f1": 0.4087521531626804,
+        "std_f1": 0.16218720039722587,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      }
+    ],
+    "scg": [
+      {
+        "optimizer": "scg",
+        "params": {
+          "hidden_dim": 16,
+          "sigma": 0.0001,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.035507723378638424,
+        "std_val_loss": 0.017049717587094216,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "hidden_dim": 16,
+          "sigma": 1e-05,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.016246827377472073,
+        "std_val_loss": 0.01352459288134054,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "hidden_dim": 16,
+          "sigma": 5e-05,
+          "lambda_init": 5e-07
+        },
+        "mean_val_loss": 0.0280614597722888,
+        "std_val_loss": 0.010833986292281387,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      }
+    ],
+    "lfrog": [
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "hidden_dim": 16,
+          "dt": 0.5,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.04671213775873184,
+        "std_val_loss": 0.010368063170917895,
+        "mean_acc": 0.9710144927536232,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9707521804708504,
+        "std_f1": 0.020681331523981914,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "hidden_dim": 16,
+          "dt": 0.1,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.24602994322776794,
+        "std_val_loss": 0.02602615388107188,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "hidden_dim": 16,
+          "dt": 0.1,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.24602994322776794,
+        "std_val_loss": 0.02602615388107188,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      }
+    ]
+  },
+  "sine": {
+    "sgd": [
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 32,
+          "lr": 0.01,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.04812036082148552,
+        "std_val_loss": 0.011431623649119134,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.04812036082148552,
+        "std_mse": 0.011431623649119134,
+        "mean_r2": 0.8966850241025289,
+        "std_r2": 0.02454381287423375
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 32,
+          "lr": 0.01,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.01215597086896499,
+        "std_val_loss": 0.0004497087737223051,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.01215597086896499,
+        "std_mse": 0.00044970903122932735,
+        "mean_r2": 0.9739009737968445,
+        "std_r2": 0.000965523816486735
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 32,
+          "lr": 0.001,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.14869406322638193,
+        "std_val_loss": 0.002145894575269104,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.14869405825932822,
+        "std_mse": 0.0021459004557656497,
+        "mean_r2": 0.680752158164978,
+        "std_r2": 0.004607252726462257
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 32,
+          "lr": 0.001,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.048577806601921715,
+        "std_val_loss": 0.010980046329829697,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.048577806601921715,
+        "std_mse": 0.010980046329829697,
+        "mean_r2": 0.8957028985023499,
+        "std_r2": 0.023574287257939936
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "hidden_dim": 32,
+          "lr": 0.0001,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.1899405618508657,
+        "std_val_loss": 0.0034471035491534345,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18994055688381195,
+        "std_mse": 0.003447108767409549,
+        "mean_r2": 0.5921954313913981,
+        "std_r2": 0.0074009729169890095
+      }
+    ],
+    "scg": [
+      {
+        "optimizer": "scg",
+        "params": {
+          "hidden_dim": 32,
+          "sigma": 0.0001,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.26785852170238894,
+        "std_val_loss": 0.3626079661727837,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.26785854157060385,
+        "std_mse": 0.3626079942706819,
+        "mean_r2": 0.42490466435750324,
+        "std_r2": 0.778523516034648
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "hidden_dim": 32,
+          "sigma": 1e-05,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": NaN,
+        "std_val_loss": NaN,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.52840286353603,
+        "std_mse": 0.5171098127029836,
+        "mean_r2": -0.13448697328567505,
+        "std_r2": 1.110240638256073
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "hidden_dim": 32,
+          "sigma": 5e-05,
+          "lambda_init": 5e-07
+        },
+        "mean_val_loss": 0.2787721222266555,
+        "std_val_loss": 0.3781913185808714,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.27877216196308535,
+        "std_mse": 0.3781913747771058,
+        "mean_r2": 0.4014729857444763,
+        "std_r2": 0.8119812190770606
+      }
+    ],
+    "lfrog": [
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "hidden_dim": 32,
+          "dt": 0.1,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "hidden_dim": 32,
+          "dt": 0.05,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "hidden_dim": 32,
+          "dt": 0.01,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      }
+    ]
+  }
+}

@@ -1,0 +1,1092 @@
+{
+  "sgd": {
+    "candidates": [
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.9
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.0028131860877082054,
+        "worst_relative_gap": 0.006152160290873732,
+        "avg_rank": 2.0,
+        "mean_time_avg": 1.0122455755869548
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.01772066769130719,
+        "worst_relative_gap": 0.04692801008515472,
+        "avg_rank": 6.0,
+        "mean_time_avg": 1.001556608412001
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.026789520727112145,
+        "worst_relative_gap": 0.06418583329769387,
+        "avg_rank": 4.666666666666667,
+        "mean_time_avg": 1.0280190308888753
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.9
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.03704490659128857,
+        "worst_relative_gap": 0.10806628968837098,
+        "avg_rank": 3.3333333333333335,
+        "mean_time_avg": 1.0193341308169896
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.04279873921893049,
+        "worst_relative_gap": 0.08470649349347274,
+        "avg_rank": 7.0,
+        "mean_time_avg": 0.9679723845587836
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.06179663047319253,
+        "worst_relative_gap": 0.14684991792122093,
+        "avg_rank": 6.333333333333333,
+        "mean_time_avg": 0.9515152507358128
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.9
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.12806380461209316,
+        "worst_relative_gap": 0.25256065956308466,
+        "avg_rank": 11.666666666666666,
+        "mean_time_avg": 1.0244667000240748
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.9
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.18014161324933428,
+        "worst_relative_gap": 0.32058871739345296,
+        "avg_rank": 12.0,
+        "mean_time_avg": 1.0214977794223363
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.252489351304677,
+        "worst_relative_gap": 0.7484802745028751,
+        "avg_rank": 5.666666666666667,
+        "mean_time_avg": 1.0079690350426567
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.0174555719157952,
+        "worst_relative_gap": 3.0295632920932363,
+        "avg_rank": 8.333333333333334,
+        "mean_time_avg": 0.9645070764753555
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.0192585278702644,
+        "worst_relative_gap": 3.0367752786525113,
+        "avg_rank": 8.0,
+        "mean_time_avg": 1.0217485162946913
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.9
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.0359749693746825,
+        "worst_relative_gap": 3.0831431978760704,
+        "avg_rank": 8.666666666666666,
+        "mean_time_avg": 1.0080748399098713
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 2.303519343953892,
+        "worst_relative_gap": 6.858557377259721,
+        "avg_rank": 11.0,
+        "mean_time_avg": 0.9770060910118952
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.9
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 2.312239406973886,
+        "worst_relative_gap": 6.8829902406088825,
+        "avg_rank": 12.0,
+        "mean_time_avg": 1.0184205108218725
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.4166596661552844,
+        "worst_relative_gap": 10.111503174198907,
+        "avg_rank": 14.0,
+        "mean_time_avg": 1.0061562061309814
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.922349385797382,
+        "worst_relative_gap": 11.371350977973469,
+        "avg_rank": 15.666666666666666,
+        "mean_time_avg": 1.0016099611918132
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.9234283925404188,
+        "worst_relative_gap": 11.374300664047997,
+        "avg_rank": 16.666666666666668,
+        "mean_time_avg": 1.030944055981106
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 4.749415566682681,
+        "worst_relative_gap": 12.091228394677698,
+        "avg_rank": 18.0,
+        "mean_time_avg": 0.9782959355248346
+      }
+    ],
+    "selected": {
+      "optimizer": "sgd",
+      "params": {
+        "lr": 0.01,
+        "momentum": 0.9
+      },
+      "datasets_covered": 3,
+      "mean_relative_gap": 0.0028131860877082054,
+      "worst_relative_gap": 0.006152160290873732,
+      "avg_rank": 2.0,
+      "mean_time_avg": 1.0122455755869548
+    }
+  },
+  "scg": {
+    "candidates": [
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-07,
+          "sigma": 0.0005
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.0068611999918640615,
+        "worst_relative_gap": 0.02057647253515592,
+        "avg_rank": 7.333333333333333,
+        "mean_time_avg": 0.025074296527438696
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 0.0001,
+          "sigma": 0.0005
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.00808597124849406,
+        "worst_relative_gap": 0.022215698921781657,
+        "avg_rank": 7.0,
+        "mean_time_avg": 0.0250246524810791
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-05,
+          "sigma": 0.0005
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.35418742790515245,
+        "worst_relative_gap": 1.0625605839590055,
+        "avg_rank": 9.0,
+        "mean_time_avg": 0.02534606721666124
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-06,
+          "sigma": 0.0005
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.850293140877179,
+        "worst_relative_gap": 2.520970783059634,
+        "avg_rank": 11.333333333333334,
+        "mean_time_avg": 0.02425342135959201
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-07,
+          "sigma": 1e-05
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.1297797739373305,
+        "worst_relative_gap": 3.388117852962386,
+        "avg_rank": 4.666666666666667,
+        "mean_time_avg": 0.02574597464667426
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 0.0001,
+          "sigma": 1e-05
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.130835497160141,
+        "worst_relative_gap": 3.388117852962386,
+        "avg_rank": 3.3333333333333335,
+        "mean_time_avg": 0.02477500173780653
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-06,
+          "sigma": 1e-05
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.13298423169575,
+        "worst_relative_gap": 3.388117852962386,
+        "avg_rank": 5.0,
+        "mean_time_avg": 0.02467799186706543
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-05,
+          "sigma": 1e-05
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.1438177244486722,
+        "worst_relative_gap": 3.388117852962386,
+        "avg_rank": 7.0,
+        "mean_time_avg": 0.02568642298380534
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 0.0001,
+          "sigma": 0.0001
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.436374022108765,
+        "worst_relative_gap": 4.284717745759259,
+        "avg_rank": 12.0,
+        "mean_time_avg": 0.02479889657762316
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-07,
+          "sigma": 5e-05
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.4617081144022073,
+        "worst_relative_gap": 4.3851095523434624,
+        "avg_rank": 10.0,
+        "mean_time_avg": 0.02557961146036784
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 0.0001,
+          "sigma": 5e-05
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.4629847605401143,
+        "worst_relative_gap": 4.3851095523434624,
+        "avg_rank": 8.666666666666666,
+        "mean_time_avg": 0.024806287553575307
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-06,
+          "sigma": 0.0001
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.4678500457409311,
+        "worst_relative_gap": 4.389616669039429,
+        "avg_rank": 13.666666666666666,
+        "mean_time_avg": 0.024764325883653432
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-06,
+          "sigma": 5e-05
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.4736691209732637,
+        "worst_relative_gap": 4.3851095523434624,
+        "avg_rank": 13.0,
+        "mean_time_avg": 0.03048531214396159
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-05,
+          "sigma": 0.0001
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.8084334209141277,
+        "worst_relative_gap": 4.389616669039429,
+        "avg_rank": 15.666666666666666,
+        "mean_time_avg": 0.024691714180840384
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-06,
+          "sigma": 0.001
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.8389631551697831,
+        "worst_relative_gap": 5.503331006619944,
+        "avg_rank": 10.666666666666666,
+        "mean_time_avg": 0.02499800258212619
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-07,
+          "sigma": 0.001
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.844212459184433,
+        "worst_relative_gap": 5.503331006619944,
+        "avg_rank": 13.0,
+        "mean_time_avg": 0.024505562252468537
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-07,
+          "sigma": 0.0001
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.8724080397889038,
+        "worst_relative_gap": 4.389616669039429,
+        "avg_rank": 17.666666666666668,
+        "mean_time_avg": 0.024804141786363393
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 0.0001,
+          "sigma": 0.001
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.9203679253757855,
+        "worst_relative_gap": 5.503331006619944,
+        "avg_rank": 12.0,
+        "mean_time_avg": 0.024737252129448786
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-05,
+          "sigma": 0.001
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 2.5367158910968075,
+        "worst_relative_gap": 5.503331006619944,
+        "avg_rank": 14.0,
+        "mean_time_avg": 0.024702204598320853
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "lambda_init": 1e-05,
+          "sigma": 5e-05
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 2.8640679013947383,
+        "worst_relative_gap": 4.3851095523434624,
+        "avg_rank": 15.0,
+        "mean_time_avg": 0.024551524056328666
+      }
+    ],
+    "selected": {
+      "optimizer": "scg",
+      "params": {
+        "lambda_init": 1e-07,
+        "sigma": 0.0005
+      },
+      "datasets_covered": 3,
+      "mean_relative_gap": 0.0068611999918640615,
+      "worst_relative_gap": 0.02057647253515592,
+      "avg_rank": 7.333333333333333,
+      "mean_time_avg": 0.025074296527438696
+    }
+  },
+  "lfrog": {
+    "candidates": [
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.2,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.14824877224199207,
+        "worst_relative_gap": 0.3894131252121882,
+        "avg_rank": 6.0,
+        "mean_time_avg": 0.015705188115437824
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.2,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.14824877224199207,
+        "worst_relative_gap": 0.3894131252121882,
+        "avg_rank": 7.0,
+        "mean_time_avg": 0.014944659339057073
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.2,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.14824877224199207,
+        "worst_relative_gap": 0.3894131252121882,
+        "avg_rank": 8.0,
+        "mean_time_avg": 0.015210257636176215
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.2,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.15242710500286225,
+        "worst_relative_gap": 0.3894131252121882,
+        "avg_rank": 6.0,
+        "mean_time_avg": 0.014685922198825413
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.2,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.15242710500286225,
+        "worst_relative_gap": 0.3894131252121882,
+        "avg_rank": 7.0,
+        "mean_time_avg": 0.014915916654798722
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.2,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.15242710500286225,
+        "worst_relative_gap": 0.3894131252121882,
+        "avg_rank": 8.0,
+        "mean_time_avg": 0.01497944196065267
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.5,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.20372014281519155,
+        "worst_relative_gap": 0.6111604284455746,
+        "avg_rank": 9.0,
+        "mean_time_avg": 0.015158679750230575
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.5,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.20372014281519155,
+        "worst_relative_gap": 0.6111604284455746,
+        "avg_rank": 10.0,
+        "mean_time_avg": 0.014991442362467447
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.5,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.20372014281519155,
+        "worst_relative_gap": 0.6111604284455746,
+        "avg_rank": 11.0,
+        "mean_time_avg": 0.015204058753119575
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.2,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.38543510582531854,
+        "worst_relative_gap": 0.7116976253415659,
+        "avg_rank": 18.0,
+        "mean_time_avg": 0.015270206663343644
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.2,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.38543510582531854,
+        "worst_relative_gap": 0.7116976253415659,
+        "avg_rank": 19.0,
+        "mean_time_avg": 0.015004820293850368
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.2,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.38543510582531854,
+        "worst_relative_gap": 0.7116976253415659,
+        "avg_rank": 20.0,
+        "mean_time_avg": 0.014774507946438259
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.5,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.4541635297307513,
+        "worst_relative_gap": 1.3407957263666144,
+        "avg_rank": 9.0,
+        "mean_time_avg": 0.01488826009962294
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.5,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.4541635297307513,
+        "worst_relative_gap": 1.3407957263666144,
+        "avg_rank": 10.0,
+        "mean_time_avg": 0.014988581339518229
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.5,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.4541635297307513,
+        "worst_relative_gap": 1.3407957263666144,
+        "avg_rank": 11.0,
+        "mean_time_avg": 0.01533834139506022
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.5,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.4855953947834655,
+        "worst_relative_gap": 1.3934435040287383,
+        "avg_rank": 11.0,
+        "mean_time_avg": 0.015338076485527886
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.5,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.4855953947834655,
+        "worst_relative_gap": 1.3934435040287383,
+        "avg_rank": 12.0,
+        "mean_time_avg": 0.014881372451782227
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.5,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 0.4855953947834655,
+        "worst_relative_gap": 1.3934435040287383,
+        "avg_rank": 13.0,
+        "mean_time_avg": 0.014968607160780164
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.1,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.5140542852029633,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 17.0,
+        "mean_time_avg": 0.01473946041531033
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.1,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.5140542852029633,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 18.0,
+        "mean_time_avg": 0.01499719089931912
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.1,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.5140542852029633,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 19.0,
+        "mean_time_avg": 0.014681233300103081
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.1,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.523475200467959,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 20.0,
+        "mean_time_avg": 0.014660517374674479
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.1,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.523475200467959,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 21.0,
+        "mean_time_avg": 0.015043152703179253
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.1,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.523475200467959,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 22.0,
+        "mean_time_avg": 0.01475956704881456
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.1,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.8058796522736895,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 27.0,
+        "mean_time_avg": 0.014748997158474391
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.1,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.8058796522736895,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 28.0,
+        "mean_time_avg": 0.014930327733357748
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.1,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 1.8058796522736895,
+        "worst_relative_gap": 4.307191216936752,
+        "avg_rank": 29.0,
+        "mean_time_avg": 0.015053696102566188
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.05,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.2011015953215605,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 25.0,
+        "mean_time_avg": 0.014913320541381836
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.05,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.2011015953215605,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 26.0,
+        "mean_time_avg": 0.015080531438191732
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.05,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.2011015953215605,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 27.0,
+        "mean_time_avg": 0.015097777048746744
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.05,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.2011015953215605,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 28.0,
+        "mean_time_avg": 0.014616383446587458
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.05,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.2011015953215605,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 29.0,
+        "mean_time_avg": 0.01467916700575087
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.05,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.2011015953215605,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 30.0,
+        "mean_time_avg": 0.015147050221761068
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.05,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.6176047780834693,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 34.0,
+        "mean_time_avg": 0.014879491594102645
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.05,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.6176047780834693,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 35.0,
+        "mean_time_avg": 0.015531063079833984
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.05,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 3.6176047780834693,
+        "worst_relative_gap": 8.956479745553086,
+        "avg_rank": 36.0,
+        "mean_time_avg": 0.01607195536295573
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.01,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 9.15578913249673,
+        "worst_relative_gap": 12.615972400618654,
+        "avg_rank": 37.0,
+        "mean_time_avg": 0.01582744386461046
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.01,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 9.15578913249673,
+        "worst_relative_gap": 12.615972400618654,
+        "avg_rank": 38.0,
+        "mean_time_avg": 0.015705717934502497
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.01,
+          "max_step": 1.0
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 9.15578913249673,
+        "worst_relative_gap": 12.615972400618654,
+        "avg_rank": 39.0,
+        "mean_time_avg": 0.01631241374545627
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.01,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 9.15578913249673,
+        "worst_relative_gap": 12.615972400618654,
+        "avg_rank": 40.0,
+        "mean_time_avg": 0.01599015129937066
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.01,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 9.15578913249673,
+        "worst_relative_gap": 12.615972400618654,
+        "avg_rank": 41.0,
+        "mean_time_avg": 0.015851312213473853
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.01,
+          "max_step": 0.5
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 9.15578913249673,
+        "worst_relative_gap": 12.615972400618654,
+        "avg_rank": 42.0,
+        "mean_time_avg": 0.01610467169019911
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 0.0001,
+          "dt": 0.01,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 10.675259087340637,
+        "worst_relative_gap": 17.17438226515037,
+        "avg_rank": 43.0,
+        "mean_time_avg": 0.015801244311862524
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-05,
+          "dt": 0.01,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 10.675259087340637,
+        "worst_relative_gap": 17.17438226515037,
+        "avg_rank": 44.0,
+        "mean_time_avg": 0.015788502163357206
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "convergence_tol": 1e-06,
+          "dt": 0.01,
+          "max_step": 0.1
+        },
+        "datasets_covered": 3,
+        "mean_relative_gap": 10.675259087340637,
+        "worst_relative_gap": 17.17438226515037,
+        "avg_rank": 45.0,
+        "mean_time_avg": 0.01696602503458659
+      }
+    ],
+    "selected": {
+      "optimizer": "lfrog",
+      "params": {
+        "convergence_tol": 0.0001,
+        "dt": 0.2,
+        "max_step": 0.5
+      },
+      "datasets_covered": 3,
+      "mean_relative_gap": 0.14824877224199207,
+      "worst_relative_gap": 0.3894131252121882,
+      "avg_rank": 6.0,
+      "mean_time_avg": 0.015705188115437824
+    }
+  }
+}

@@ -1,0 +1,2930 @@
+{
+  "iris": {
+    "sgd": [
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.1600929150978724,
+        "std_val_loss": 0.01564351545227287,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.10150619596242905,
+        "std_val_loss": 0.008490681295844628,
+        "mean_acc": 0.927536231884058,
+        "std_acc": 0.020495848730044893,
+        "mean_f1": 0.9257947697845396,
+        "std_f1": 0.021449024198888098,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.043870734671751656,
+        "std_val_loss": 0.0024562098556356483,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.24389176070690155,
+        "std_val_loss": 0.004929868278619514,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.15966206789016724,
+        "std_val_loss": 0.011869964839222227,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.06359922140836716,
+        "std_val_loss": 0.00787241426619817,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.5790289839108785,
+        "std_val_loss": 0.04041194540354024,
+        "mean_acc": 0.8260869565217391,
+        "std_acc": 0.0,
+        "mean_f1": 0.8203358638141247,
+        "std_f1": 0.0041535472935973535,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.40331260363260907,
+        "std_val_loss": 0.022225393795517728,
+        "mean_acc": 0.8840579710144927,
+        "std_acc": 0.04099169746008968,
+        "mean_f1": 0.8827352196917414,
+        "std_f1": 0.041166175373005286,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.16135275860627493,
+        "std_val_loss": 0.015938989371508193,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.7693065404891968,
+        "std_val_loss": 0.05901250373990672,
+        "mean_acc": 0.6811594202898551,
+        "std_acc": 0.08198339492017942,
+        "mean_f1": 0.6350339098365341,
+        "std_f1": 0.11302036315594423,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.5802403489748637,
+        "std_val_loss": 0.04044366781882646,
+        "mean_acc": 0.8260869565217391,
+        "std_acc": 0.0,
+        "mean_f1": 0.8203358638141247,
+        "std_f1": 0.0041535472935973535,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.24981636802355447,
+        "std_val_loss": 0.005195523595470294,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 1.0157005190849304,
+        "std_val_loss": 0.09267430192119933,
+        "mean_acc": 0.5217391304347826,
+        "std_acc": 0.12799653429460647,
+        "mean_f1": 0.4087521531626804,
+        "std_f1": 0.16218720039722587,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.9434950550397238,
+        "std_val_loss": 0.08171239575707799,
+        "mean_acc": 0.5362318840579711,
+        "std_acc": 0.13440026805066238,
+        "mean_f1": 0.4200355557504308,
+        "std_f1": 0.17026492380856886,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.5900984009106954,
+        "std_val_loss": 0.04231872285573054,
+        "mean_acc": 0.8115942028985508,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.8038539087132438,
+        "std_f1": 0.0192609226009361,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 1.056550125281016,
+        "std_val_loss": 0.09882186599247414,
+        "mean_acc": 0.4492753623188406,
+        "std_acc": 0.14779766706066044,
+        "mean_f1": 0.3200472162108991,
+        "std_f1": 0.15473042856833039,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 1.0160403847694397,
+        "std_val_loss": 0.09268762568690064,
+        "mean_acc": 0.5217391304347826,
+        "std_acc": 0.12799653429460647,
+        "mean_f1": 0.4087521531626804,
+        "std_f1": 0.16218720039722587,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.7793165047963461,
+        "std_val_loss": 0.059966662066249725,
+        "mean_acc": 0.6811594202898551,
+        "std_acc": 0.08198339492017942,
+        "mean_f1": 0.6350339098365341,
+        "std_f1": 0.11302036315594423,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      }
+    ],
+    "scg": [
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.001,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.029648442131777603,
+        "std_val_loss": 0.010248621098616996,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.001,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.048048930863539376,
+        "std_val_loss": 0.01580273919643717,
+        "mean_acc": 0.9710144927536232,
+        "std_acc": 0.04099169746008974,
+        "mean_f1": 0.9702093397745571,
+        "std_f1": 0.042130355722870015,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.001,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.028466133400797844,
+        "std_val_loss": 0.011918178084839989,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.001,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.04771915823221207,
+        "std_val_loss": 0.015336718757297637,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0005,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.03073870639006297,
+        "std_val_loss": 0.011077538933826568,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0005,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.04916646579901377,
+        "std_val_loss": 0.015038168157695271,
+        "mean_acc": 0.9710144927536232,
+        "std_acc": 0.04099169746008974,
+        "mean_f1": 0.9702093397745571,
+        "std_f1": 0.042130355722870015,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0005,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.03522465440134207,
+        "std_val_loss": 0.00477565912507065,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0005,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.044215394804875054,
+        "std_val_loss": 0.00805656006987545,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0001,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.035507723378638424,
+        "std_val_loss": 0.017049717587094216,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0001,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.035507723378638424,
+        "std_val_loss": 0.017049717587094216,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0001,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.035507723378638424,
+        "std_val_loss": 0.017049717587094216,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0001,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.035507723378638424,
+        "std_val_loss": 0.017049717587094216,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 5e-05,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.0280614597722888,
+        "std_val_loss": 0.010833986292281387,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 5e-05,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.0280614597722888,
+        "std_val_loss": 0.010833986292281387,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 5e-05,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.0280614597722888,
+        "std_val_loss": 0.010833986292281387,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 5e-05,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.0280614597722888,
+        "std_val_loss": 0.010833986292281387,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 1e-05,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.016246827377472073,
+        "std_val_loss": 0.01352459288134054,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 1e-05,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.016246827377472073,
+        "std_val_loss": 0.01352459288134054,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 1e-05,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.016246827377472073,
+        "std_val_loss": 0.01352459288134054,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 1e-05,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.016246827377472073,
+        "std_val_loss": 0.01352459288134054,
+        "mean_acc": 1.0,
+        "std_acc": 0.0,
+        "mean_f1": 1.0,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      }
+    ],
+    "lfrog": [
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.04671213775873184,
+        "std_val_loss": 0.010368063170917895,
+        "mean_acc": 0.9710144927536232,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9707521804708504,
+        "std_f1": 0.020681331523981914,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.04671213775873184,
+        "std_val_loss": 0.010368063170917895,
+        "mean_acc": 0.9710144927536232,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9707521804708504,
+        "std_f1": 0.020681331523981914,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.04671213775873184,
+        "std_val_loss": 0.010368063170917895,
+        "mean_acc": 0.9710144927536232,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9707521804708504,
+        "std_f1": 0.020681331523981914,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.031713878735899925,
+        "std_val_loss": 0.009029550179585656,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.031713878735899925,
+        "std_val_loss": 0.009029550179585656,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.031713878735899925,
+        "std_val_loss": 0.009029550179585656,
+        "mean_acc": 0.9855072463768115,
+        "std_acc": 0.02049584873004484,
+        "mean_f1": 0.9853760902354253,
+        "std_f1": 0.020681331523981918,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.1528448909521103,
+        "std_val_loss": 0.005246625457838314,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.1528448909521103,
+        "std_val_loss": 0.005246625457838314,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.1528448909521103,
+        "std_val_loss": 0.005246625457838314,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.09117075055837631,
+        "std_val_loss": 0.027463589395961926,
+        "mean_acc": 0.9420289855072465,
+        "std_acc": 0.04099169746008974,
+        "mean_f1": 0.9404186795491144,
+        "std_f1": 0.04213035572287001,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.09117075055837631,
+        "std_val_loss": 0.027463589395961926,
+        "mean_acc": 0.9420289855072465,
+        "std_acc": 0.04099169746008974,
+        "mean_f1": 0.9404186795491144,
+        "std_f1": 0.04213035572287001,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.09117075055837631,
+        "std_val_loss": 0.027463589395961926,
+        "mean_acc": 0.9420289855072465,
+        "std_acc": 0.04099169746008974,
+        "mean_f1": 0.9404186795491144,
+        "std_f1": 0.04213035572287001,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.09117075055837631,
+        "std_val_loss": 0.027463589395961926,
+        "mean_acc": 0.9420289855072465,
+        "std_acc": 0.04099169746008974,
+        "mean_f1": 0.9404186795491144,
+        "std_f1": 0.04213035572287001,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.09117075055837631,
+        "std_val_loss": 0.027463589395961926,
+        "mean_acc": 0.9420289855072465,
+        "std_acc": 0.04099169746008974,
+        "mean_f1": 0.9404186795491144,
+        "std_f1": 0.04213035572287001,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.09117075055837631,
+        "std_val_loss": 0.027463589395961926,
+        "mean_acc": 0.9420289855072465,
+        "std_acc": 0.04099169746008974,
+        "mean_f1": 0.9404186795491144,
+        "std_f1": 0.04213035572287001,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.19584597647190094,
+        "std_val_loss": 0.0024546120471042147,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.19584597647190094,
+        "std_val_loss": 0.0024546120471042147,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.19584597647190094,
+        "std_val_loss": 0.0024546120471042147,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.24602994322776794,
+        "std_val_loss": 0.02602615388107188,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.24602994322776794,
+        "std_val_loss": 0.02602615388107188,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.24602994322776794,
+        "std_val_loss": 0.02602615388107188,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.24602994322776794,
+        "std_val_loss": 0.02602615388107188,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.24602994322776794,
+        "std_val_loss": 0.02602615388107188,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.24602994322776794,
+        "std_val_loss": 0.02602615388107188,
+        "mean_acc": 0.9130434782608695,
+        "std_acc": 0.0,
+        "mean_f1": 0.9106280193236714,
+        "std_f1": 0.0,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.2481664170821508,
+        "std_val_loss": 0.01408606918731206,
+        "mean_acc": 0.927536231884058,
+        "std_acc": 0.020495848730044893,
+        "mean_f1": 0.9257947697845396,
+        "std_f1": 0.021449024198888098,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.2481664170821508,
+        "std_val_loss": 0.01408606918731206,
+        "mean_acc": 0.927536231884058,
+        "std_acc": 0.020495848730044893,
+        "mean_f1": 0.9257947697845396,
+        "std_f1": 0.021449024198888098,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.2481664170821508,
+        "std_val_loss": 0.01408606918731206,
+        "mean_acc": 0.927536231884058,
+        "std_acc": 0.020495848730044893,
+        "mean_f1": 0.9257947697845396,
+        "std_f1": 0.021449024198888098,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.35320162773132324,
+        "std_val_loss": 0.05651308215999912,
+        "mean_acc": 0.8550724637681159,
+        "std_acc": 0.07389883353033022,
+        "mean_f1": 0.8439188925122428,
+        "std_f1": 0.08527606950905867,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 1.017514407634735,
+        "std_val_loss": 0.0925807597713911,
+        "mean_acc": 0.5072463768115942,
+        "std_acc": 0.12467138068177722,
+        "mean_f1": 0.39408372979860484,
+        "std_f1": 0.1535413283583676,
+        "mean_mse": null,
+        "std_mse": null,
+        "mean_r2": null,
+        "std_r2": null
+      }
+    ]
+  },
+  "sine": {
+    "sgd": [
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.012707599438726902,
+        "std_val_loss": 0.0010434963996351714,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.012707600680490335,
+        "std_mse": 0.0010434955334696055,
+        "mean_r2": 0.9727166295051575,
+        "std_r2": 0.002240402347962104
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.012242909520864487,
+        "std_val_loss": 0.0009907874117044515,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.01224290889998277,
+        "std_mse": 0.0009907879122170809,
+        "mean_r2": 0.9737143317858378,
+        "std_r2": 0.002127242114690655
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.1,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.015821901460488636,
+        "std_val_loss": 0.0021657644748776274,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.01582190239181121,
+        "std_mse": 0.0021657652307709393,
+        "mean_r2": 0.9660302003224691,
+        "std_r2": 0.004649936302449322
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.013844800802568594,
+        "std_val_loss": 9.252127166725835e-05,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.013844800181686878,
+        "std_mse": 9.252107888098839e-05,
+        "mean_r2": 0.9702750643094381,
+        "std_r2": 0.0001986439608589712
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.012883307412266731,
+        "std_val_loss": 0.0013581445770100944,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.012883308343589306,
+        "std_mse": 0.0013581452537929945,
+        "mean_r2": 0.9723393718401591,
+        "std_r2": 0.0029159606437157795
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.05,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.012322025063137213,
+        "std_val_loss": 0.0004994646112497158,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.012322024442255497,
+        "std_mse": 0.0004994639914088422,
+        "mean_r2": 0.9735444784164429,
+        "std_r2": 0.001072343698171433
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.04812036082148552,
+        "std_val_loss": 0.011431623649119134,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.04812036082148552,
+        "std_mse": 0.011431623649119134,
+        "mean_r2": 0.8966850241025289,
+        "std_r2": 0.02454381287423375
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.02099929191172123,
+        "std_val_loss": 0.004379135814537751,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.020999292532602947,
+        "std_mse": 0.004379135090510134,
+        "mean_r2": 0.9549142519632975,
+        "std_r2": 0.009402049973467701
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.01,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.01215597086896499,
+        "std_val_loss": 0.0004497087737223051,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.01215597086896499,
+        "std_mse": 0.00044970903122932735,
+        "mean_r2": 0.9739009737968445,
+        "std_r2": 0.000965523816486735
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.09395797550678253,
+        "std_val_loss": 0.00784509489528438,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.0939579779903094,
+        "std_mse": 0.007845101051464536,
+        "mean_r2": 0.7982711394627889,
+        "std_r2": 0.01684350807410738
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.04818393290042877,
+        "std_val_loss": 0.011172568871048448,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.04818393165866534,
+        "std_mse": 0.011172564553216045,
+        "mean_r2": 0.8965485493342081,
+        "std_r2": 0.023987624112779993
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.005,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.01337337028235197,
+        "std_val_loss": 0.0006495975854269111,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.013373370903233687,
+        "std_mse": 0.0006495981524359455,
+        "mean_r2": 0.9712872306505839,
+        "std_r2": 0.0013947035677699519
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.14869406322638193,
+        "std_val_loss": 0.002145894575269104,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.14869405825932822,
+        "std_mse": 0.0021459004557656497,
+        "mean_r2": 0.680752158164978,
+        "std_r2": 0.004607252726462257
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.13334695994853973,
+        "std_val_loss": 0.0010162230696980498,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.13334695994853973,
+        "std_mse": 0.0010162230696980498,
+        "mean_r2": 0.7137025594711304,
+        "std_r2": 0.0021818389895233445
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.001,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.048577806601921715,
+        "std_val_loss": 0.010980046329829697,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.048577806601921715,
+        "std_mse": 0.010980046329829697,
+        "mean_r2": 0.8957028985023499,
+        "std_r2": 0.023574287257939936
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.0
+        },
+        "mean_val_loss": 0.1574101597070694,
+        "std_val_loss": 0.0034589509544174788,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1574101597070694,
+        "std_mse": 0.0034589509544174788,
+        "mean_r2": 0.6620386242866516,
+        "std_r2": 0.0074263974831012105
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.5
+        },
+        "mean_val_loss": 0.14872054755687714,
+        "std_val_loss": 0.002196845697342455,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.14872055252393088,
+        "std_mse": 0.0021968396901638865,
+        "mean_r2": 0.6806952754656473,
+        "std_r2": 0.004716634192557064
+      },
+      {
+        "optimizer": "sgd",
+        "params": {
+          "lr": 0.0005,
+          "momentum": 0.9
+        },
+        "mean_val_loss": 0.09404726574818294,
+        "std_val_loss": 0.007574893505563611,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.0940472682317098,
+        "std_mse": 0.007574895225260767,
+        "mean_r2": 0.7980794310569763,
+        "std_r2": 0.016263392886991447
+      }
+    ],
+    "scg": [
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.001,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.01722787879407406,
+        "std_val_loss": 0.004529416018385681,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.017227879725396633,
+        "std_mse": 0.004529416744437891,
+        "mean_r2": 0.9630115628242493,
+        "std_r2": 0.009724712627867801
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.001,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.01722787879407406,
+        "std_val_loss": 0.004529416018385681,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.017227879725396633,
+        "std_mse": 0.004529416744437891,
+        "mean_r2": 0.9630115628242493,
+        "std_r2": 0.009724712627867801
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.001,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.01722787879407406,
+        "std_val_loss": 0.004529416018385681,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.017227879725396633,
+        "std_mse": 0.004529416744437891,
+        "mean_r2": 0.9630115628242493,
+        "std_r2": 0.009724712627867801
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.001,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.01722787879407406,
+        "std_val_loss": 0.004529416018385681,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.017227879725396633,
+        "std_mse": 0.004529416744437891,
+        "mean_r2": 0.9630115628242493,
+        "std_r2": 0.009724712627867801
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0005,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.05833549456049999,
+        "std_val_loss": 0.06515084690249581,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.058335489283005394,
+        "std_mse": 0.06515084009414998,
+        "mean_r2": 0.8747530380884806,
+        "std_r2": 0.1398796017889841
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0005,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.09881727738926809,
+        "std_val_loss": 0.06209281559510124,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.09881727738926809,
+        "std_mse": 0.06209281431717309,
+        "mean_r2": 0.7878381808598837,
+        "std_r2": 0.1333139801061163
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0005,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 14.659280820128819,
+        "std_val_loss": 20.616909638302577,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 14.659280815161765,
+        "std_mse": 20.61690964179806,
+        "mean_r2": -30.47364381949107,
+        "std_r2": 44.26474114981789
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0005,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 20994.818309191305,
+        "std_val_loss": 29691.04227028886,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 20994.818309186336,
+        "std_mse": 29691.042270292375,
+        "mean_r2": -45075.11590913931,
+        "std_r2": 63747.008577507615
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0001,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.26785852170238894,
+        "std_val_loss": 0.3626079661727837,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.26785854157060385,
+        "std_mse": 0.3626079942706819,
+        "mean_r2": 0.42490466435750324,
+        "std_r2": 0.778523516034648
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0001,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.26785852170238894,
+        "std_val_loss": 0.3626079661727837,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.26785854157060385,
+        "std_mse": 0.3626079942706819,
+        "mean_r2": 0.42490466435750324,
+        "std_r2": 0.778523516034648
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0001,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.26785852170238894,
+        "std_val_loss": 0.3626079661727837,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.26785854157060385,
+        "std_mse": 0.3626079942706819,
+        "mean_r2": 0.42490466435750324,
+        "std_r2": 0.778523516034648
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 0.0001,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.26785852170238894,
+        "std_val_loss": 0.3626079661727837,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.26785854157060385,
+        "std_mse": 0.3626079942706819,
+        "mean_r2": 0.42490466435750324,
+        "std_r2": 0.778523516034648
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 5e-05,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": 0.2787721222266555,
+        "std_val_loss": 0.3781913185808714,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.27877216196308535,
+        "std_mse": 0.3781913747771058,
+        "mean_r2": 0.4014729857444763,
+        "std_r2": 0.8119812190770606
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 5e-05,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": 0.2787721222266555,
+        "std_val_loss": 0.3781913185808714,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.27877216196308535,
+        "std_mse": 0.3781913747771058,
+        "mean_r2": 0.4014729857444763,
+        "std_r2": 0.8119812190770606
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 5e-05,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": 0.2787721222266555,
+        "std_val_loss": 0.3781913185808714,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.27877216196308535,
+        "std_mse": 0.3781913747771058,
+        "mean_r2": 0.4014729857444763,
+        "std_r2": 0.8119812190770606
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 5e-05,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": 0.2787721222266555,
+        "std_val_loss": 0.3781913185808714,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.27877216196308535,
+        "std_mse": 0.3781913747771058,
+        "mean_r2": 0.4014729857444763,
+        "std_r2": 0.8119812190770606
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 1e-05,
+          "lambda_init": 0.0001
+        },
+        "mean_val_loss": NaN,
+        "std_val_loss": NaN,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.52840286353603,
+        "std_mse": 0.5171098127029836,
+        "mean_r2": -0.13448697328567505,
+        "std_r2": 1.110240638256073
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 1e-05,
+          "lambda_init": 1e-05
+        },
+        "mean_val_loss": NaN,
+        "std_val_loss": NaN,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.52840286353603,
+        "std_mse": 0.5171098127029836,
+        "mean_r2": -0.13448697328567505,
+        "std_r2": 1.110240638256073
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 1e-05,
+          "lambda_init": 1e-06
+        },
+        "mean_val_loss": NaN,
+        "std_val_loss": NaN,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.52840286353603,
+        "std_mse": 0.5171098127029836,
+        "mean_r2": -0.13448697328567505,
+        "std_r2": 1.110240638256073
+      },
+      {
+        "optimizer": "scg",
+        "params": {
+          "sigma": 1e-05,
+          "lambda_init": 1e-07
+        },
+        "mean_val_loss": NaN,
+        "std_val_loss": NaN,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.52840286353603,
+        "std_mse": 0.5171098127029836,
+        "mean_r2": -0.13448697328567505,
+        "std_r2": 1.110240638256073
+      }
+    ],
+    "lfrog": [
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.033486999571323395,
+        "std_val_loss": 0.01365701123095874,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.03348700019220511,
+        "std_mse": 0.013657010356341953,
+        "mean_r2": 0.9281030297279358,
+        "std_r2": 0.02932175681874539
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.033486999571323395,
+        "std_val_loss": 0.01365701123095874,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.03348700019220511,
+        "std_mse": 0.013657010356341953,
+        "mean_r2": 0.9281030297279358,
+        "std_r2": 0.02932175681874539
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.033486999571323395,
+        "std_val_loss": 0.01365701123095874,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.03348700019220511,
+        "std_mse": 0.013657010356341953,
+        "mean_r2": 0.9281030297279358,
+        "std_r2": 0.02932175681874539
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.03424016914019982,
+        "std_val_loss": 0.014904996224311148,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.034229482213656105,
+        "std_mse": 0.0149201116251338,
+        "mean_r2": 0.926508903503418,
+        "std_r2": 0.03203364861567501
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.03424016914019982,
+        "std_val_loss": 0.014904996224311148,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.034229482213656105,
+        "std_mse": 0.0149201116251338,
+        "mean_r2": 0.926508903503418,
+        "std_r2": 0.03203364861567501
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.03424016914019982,
+        "std_val_loss": 0.014904996224311148,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.034229482213656105,
+        "std_mse": 0.0149201116251338,
+        "mean_r2": 0.926508903503418,
+        "std_r2": 0.03203364861567501
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.01430581882596016,
+        "std_val_loss": 0.000498575772530914,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.014310531628628572,
+        "std_mse": 0.0004969313623148042,
+        "mean_r2": 0.9692751367886862,
+        "std_r2": 0.0010669130012419853
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.01430581882596016,
+        "std_val_loss": 0.000498575772530914,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.014310531628628572,
+        "std_mse": 0.0004969313623148042,
+        "mean_r2": 0.9692751367886862,
+        "std_r2": 0.0010669130012419853
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.5,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.01430581882596016,
+        "std_val_loss": 0.000498575772530914,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.014310531628628572,
+        "std_mse": 0.0004969313623148042,
+        "mean_r2": 0.9692751367886862,
+        "std_r2": 0.0010669130012419853
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.019876692444086075,
+        "std_val_loss": 0.004093047970859592,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.019876691202322643,
+        "std_mse": 0.004093047180184488,
+        "mean_r2": 0.9573245048522949,
+        "std_r2": 0.00878784025422421
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.019876692444086075,
+        "std_val_loss": 0.004093047970859592,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.019876691202322643,
+        "std_mse": 0.004093047180184488,
+        "mean_r2": 0.9573245048522949,
+        "std_r2": 0.00878784025422421
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.019876692444086075,
+        "std_val_loss": 0.004093047970859592,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.019876691202322643,
+        "std_mse": 0.004093047180184488,
+        "mean_r2": 0.9573245048522949,
+        "std_r2": 0.00878784025422421
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.019876692444086075,
+        "std_val_loss": 0.004093047970859592,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.019876691202322643,
+        "std_mse": 0.004093047180184488,
+        "mean_r2": 0.9573245048522949,
+        "std_r2": 0.00878784025422421
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.019876692444086075,
+        "std_val_loss": 0.004093047970859592,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.019876691202322643,
+        "std_mse": 0.004093047180184488,
+        "mean_r2": 0.9573245048522949,
+        "std_r2": 0.00878784025422421
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.019876692444086075,
+        "std_val_loss": 0.004093047970859592,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.019876691202322643,
+        "std_mse": 0.004093047180184488,
+        "mean_r2": 0.9573245048522949,
+        "std_r2": 0.00878784025422421
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.020083832864960034,
+        "std_val_loss": 0.0030515645578476805,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.02008383348584175,
+        "std_mse": 0.0030515646464091446,
+        "mean_r2": 0.9568797945976257,
+        "std_r2": 0.0065517457325884034
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.020083832864960034,
+        "std_val_loss": 0.0030515645578476805,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.02008383348584175,
+        "std_mse": 0.0030515646464091446,
+        "mean_r2": 0.9568797945976257,
+        "std_r2": 0.0065517457325884034
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.2,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.020083832864960034,
+        "std_val_loss": 0.0030515645578476805,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.02008383348584175,
+        "std_mse": 0.0030515646464091446,
+        "mean_r2": 0.9568797945976257,
+        "std_r2": 0.0065517457325884034
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.1,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.07592371602853139,
+        "std_val_loss": 0.0162287588834862,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.07592371478676796,
+        "std_mse": 0.016228755417906037,
+        "mean_r2": 0.8369909127553304,
+        "std_r2": 0.034843316090381264
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.05,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.14243559539318085,
+        "std_val_loss": 0.0004216363712135004,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.1424356003602346,
+        "std_mse": 0.00042163063785759724,
+        "mean_r2": 0.6941891511281332,
+        "std_r2": 0.0009052468245021463
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 1.0,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 1.0,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 1.0,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.5,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.5,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.5,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.1,
+          "convergence_tol": 0.0001
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.1,
+          "convergence_tol": 1e-05
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      },
+      {
+        "optimizer": "lfrog",
+        "params": {
+          "dt": 0.01,
+          "max_step": 0.1,
+          "convergence_tol": 1e-06
+        },
+        "mean_val_loss": 0.1870781034231186,
+        "std_val_loss": 0.010654102344071851,
+        "mean_acc": null,
+        "std_acc": null,
+        "mean_f1": null,
+        "std_f1": null,
+        "mean_mse": 0.18707809348901114,
+        "std_mse": 0.010654116056601715,
+        "mean_r2": 0.598341166973114,
+        "std_r2": 0.02287450459510051
+      }
+    ]
+  }
+}
