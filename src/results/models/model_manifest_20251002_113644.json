@@ -1,0 +1,434 @@
+[
+  {
+    "dataset": "iris",
+    "optimizer": "sgd",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/iris_sgd_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "iris",
+    "optimizer": "sgd",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/iris_sgd_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "iris",
+    "optimizer": "sgd",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/iris_sgd_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "iris",
+    "optimizer": "scg",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/iris_scg_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "iris",
+    "optimizer": "scg",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/iris_scg_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "iris",
+    "optimizer": "scg",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/iris_scg_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "iris",
+    "optimizer": "lfrog",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/iris_lfrog_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "iris",
+    "optimizer": "lfrog",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/iris_lfrog_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "iris",
+    "optimizer": "lfrog",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/iris_lfrog_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "sgd",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/stroke_sgd_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "sgd",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/stroke_sgd_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "sgd",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/stroke_sgd_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "scg",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/stroke_scg_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "scg",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/stroke_scg_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "scg",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/stroke_scg_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "lfrog",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/stroke_lfrog_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "lfrog",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/stroke_lfrog_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "stroke",
+    "optimizer": "lfrog",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/stroke_lfrog_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "sgd",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/sine_sgd_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "sgd",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/sine_sgd_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "sgd",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/sine_sgd_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "scg",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/sine_scg_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "scg",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/sine_scg_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "scg",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/sine_scg_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "lfrog",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/sine_lfrog_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "lfrog",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/sine_lfrog_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "sine",
+    "optimizer": "lfrog",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/sine_lfrog_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "sgd",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/wine_sgd_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "sgd",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/wine_sgd_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "sgd",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/wine_sgd_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "scg",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/wine_scg_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "scg",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/wine_scg_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "scg",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/wine_scg_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "lfrog",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/wine_lfrog_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "lfrog",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/wine_lfrog_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "wine",
+    "optimizer": "lfrog",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/wine_lfrog_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "sgd",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/california_sgd_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "sgd",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/california_sgd_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "sgd",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/california_sgd_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "scg",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/california_scg_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "scg",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/california_scg_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "scg",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/california_scg_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "lfrog",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/california_lfrog_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "lfrog",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/california_lfrog_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "california",
+    "optimizer": "lfrog",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/california_lfrog_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "sgd",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/mnist_sgd_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "sgd",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/mnist_sgd_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "sgd",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/mnist_sgd_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "scg",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/mnist_scg_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "scg",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/mnist_scg_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "scg",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/mnist_scg_run3_seed2025_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "lfrog",
+    "run": 1,
+    "seed": 42,
+    "type": "state_payload",
+    "path": "results/models/mnist_lfrog_run1_seed42_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "lfrog",
+    "run": 2,
+    "seed": 1337,
+    "type": "state_payload",
+    "path": "results/models/mnist_lfrog_run2_seed1337_20251002_113644_state.pt"
+  },
+  {
+    "dataset": "mnist",
+    "optimizer": "lfrog",
+    "run": 3,
+    "seed": 2025,
+    "type": "state_payload",
+    "path": "results/models/mnist_lfrog_run3_seed2025_20251002_113644_state.pt"
+  }
+]
